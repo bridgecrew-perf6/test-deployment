@@ -9,8 +9,6 @@ function App() {
         <p>
           Happy Deployment
         </p>
-       
-        </a>
       </header>
     </div>
   );
